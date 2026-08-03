@@ -10,8 +10,8 @@ botao.addEventListener("click", function () {
 
 });
 
-botao2.addEventListener("click", function () {
+/*botao2.addEventListener("click", function () {
 
     mensagem.textContent = "Sistema Fechado";
 
-});
+});*/
