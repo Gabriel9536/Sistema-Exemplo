@@ -1,4 +1,4 @@
-const botao = document.getElementById("btnNovoSistema");
+//const botao = document.getElementById("btnNovoSistema");
 //const botao2 = document.getElementById("btnFecharSistema");
 
 const mensagem = document.getElementById("mensagem");
@@ -10,8 +10,8 @@ botao.addEventListener("click", function () {
 
 });
 
-botao2.addEventListener("click", function () {
+/*botao2.addEventListener("click", function () {
 
     mensagem.textContent = "Sistema Fechado";
 
-});
+});*/
